@@ -7,7 +7,7 @@ This project aims to be a HTML5 comic book reader with Java EE backend. It was e
     - Oracle's JDK 7.X.(installed and configured)
     - Wildfly9 (just download and uncompress it in some directory)
     - Apache Maven (3.X.X)
-    - Bower (it must be installed and its location must be added in your PATH environment variable)
+    - Bower (it must be installed and its location must be added to your PATH environment variable)
     
 ***
 ### 2 - Main Technologies
