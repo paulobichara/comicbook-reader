@@ -32,7 +32,7 @@ First, start wildfly9 in standalone mode. E.g., in a linux environment:
 
 Now, just clone the repo and enter in root folder
 
-**`git clone https://github.com/paulobichara/comicbook-reader/`**
+**`git clone https://github.com/paulobichara/comicbook-reader/`**  
 **`cd comicbook-reader/`**
 
 folder and run:
