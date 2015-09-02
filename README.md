@@ -30,12 +30,12 @@ First, start wildfly9 in standalone mode. E.g., in a linux environment:
 **`cd wildfly-9.0.1.Final/bin/`**  
 **`./standalone.sh`**
 
-Now, just clone the repo and enter in root folder
+Now, just clone the repo and enter in root folder:
 
 **`git clone https://github.com/paulobichara/comicbook-reader/`**  
 **`cd comicbook-reader/`**
 
-folder and run:
+Finally, run:
 
 **`mvn clean install`**
 
