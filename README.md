@@ -1,6 +1,6 @@
 # comicbook-reader
 
-This project aims to be a HTML5 comic book reader with Java EE backend. It was entirely structured with Apache Maven. The project is still in an initial development stage (including the documentation). Right bellow, I'm gonna list the requirements, some of the main technologies involved and give some instructions on how to build and run the project.
+This project aims to be a HTML5 comic book reader with Java EE backend. It was entirely structured with Apache Maven. **The project is still in an initial development stage (including the documentation)**. Right bellow, I'm gonna list the requirements, some of the main technologies involved and give some instructions on how to build and run the project.
 
 ***
 ### 1 - Requirements
