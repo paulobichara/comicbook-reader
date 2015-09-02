@@ -27,7 +27,7 @@ This project aims to be a HTML5 comic book reader with Java EE backend. It was e
     
 First, start wildfly9 in standalone mode. E.g., in a linux environment:
 
-**`cd wildfly-9.0.1.Final/bin/`**
+**`cd wildfly-9.0.1.Final/bin/`**  
 **`./standalone.sh`**
 
 Now, just clone the repo and enter in root folder
